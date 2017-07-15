@@ -1,0 +1,4 @@
+*.swp
+assets/js/
+dist/
+logfile.log
